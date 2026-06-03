@@ -2,7 +2,7 @@
 
 A complete full stack Student & Task Management app — DecodeLabs Internship, Project 4.
 
-##  Setup (2 Steps)
+##  Setup (2 Steps):
 
 ### Step 1 — Create database in SSMS
 ```sql
